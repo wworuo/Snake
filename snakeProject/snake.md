@@ -223,5 +223,3 @@ F1"加速  "F2"减速  "Space"暂停
 #### 10.图形化界面
 
 实现图形化交互界面后扩展部分得6分
-
-![image-20210622175752499](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210622175752499.png)
